@@ -5,3 +5,4 @@ The first day to learn Git completely.
 test line1
 test line2
 test line3（dev）
+test line4（master）
