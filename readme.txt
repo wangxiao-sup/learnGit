@@ -1,2 +1,2 @@
-This is learningGit project.
-This is readme.txt.
+This is learningGit project 2024/2/22.
+This is readme.txt 2024/2/22.
